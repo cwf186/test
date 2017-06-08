@@ -1,0 +1,8 @@
+https://github.com/cwf186/test.git
+
+git 项目地址
+
+git denglu   cwf186 cwf201314
+
+msysgit安装地址
+C:\Program Files\Git
